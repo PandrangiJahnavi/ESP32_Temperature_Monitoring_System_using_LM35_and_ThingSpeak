@@ -69,7 +69,7 @@ Channel update successful.
 
 OUTPUT 
 
-https://github.com/PandrangiJahnavi/ESP32_Temperature_Monitoring_System_using_LM35_and_ThingSpeak/blob/main/OUTPUT_vaules.png
+https://github.com/PandrangiJahnavi/ESP32_Temperature_Monitoring_System_using_LM35_and_ThingSpeak/blob/main/temprature_output.png
 
 https://github.com/PandrangiJahnavi/ESP32_Temperature_Monitoring_System_using_LM35_and_ThingSpeak/blob/main/thinkspeak_graph_output.png
 
